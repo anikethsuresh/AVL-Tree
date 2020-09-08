@@ -1,0 +1,12 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - AddressBook",
+            "request": "launch",
+            "mainClass": "AddressBook3.AddressBook",
+            "projectName": "AddressBook3",
+            "console": "externalTerminal"
+        }
+    ]
+}
